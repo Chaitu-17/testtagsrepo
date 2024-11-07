@@ -6,8 +6,12 @@ on:
   pull_request:
     branches: [ main ]
 
-env:
-  GH_TOKEN: ${{ secrets.GH_TOKEN }}  # GitHub token for creating releases
+permissions:
+  contents: write  # Allows pushing changes to the repository
+  pull-requests: write  # Allows creating releases
+
+# env:
+#   GH_TOKEN: ${{ secrets.GH_TOKEN }}  # GitHub token for creating releases
 
 jobs:
   release:
@@ -35,5 +39,5 @@ jobs:
     # Step 5: Run semantic-release
     - name: Run semantic-release
       run: npx semantic-release
-      env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Ensure GitHub token is passed to semantic-release
+      # env:
+      #   GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Ensure GitHub token is passed to semantic-release
