@@ -10,8 +10,8 @@ permissions:
   contents: write  # Allows pushing changes to the repository
   pull-requests: write  # Allows creating releases
 
-# env:
-#   GH_TOKEN: ${{ secrets.GH_TOKEN }}  # GitHub token for creating releases
+env:
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for creating releases
 
 jobs:
   release:
@@ -43,4 +43,4 @@ jobs:
     - name: Run semantic-release
       run: npx semantic-release
       env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # Ensure GitHub token is passed to semantic-release
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Ensure GitHub token is passed to semantic-release
