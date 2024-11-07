@@ -24,9 +24,9 @@ jobs:
       with:
         node-version: 'lts/*'  # Use latest LTS version of Node.js
 
-    # Step 3: Install dependencies (if you have any, e.g., your Node.js app dependencies)
-    - name: Install dependencies
-      run: npm install
+    # # Step 3: Install dependencies (if you have any, e.g., your Node.js app dependencies)
+    # - name: Install dependencies
+    #   run: npm install
 
     # Step 4: Install semantic-release and plugins
     - name: Install semantic-release and plugins
