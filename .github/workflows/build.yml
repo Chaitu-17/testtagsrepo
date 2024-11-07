@@ -21,8 +21,8 @@ jobs:
     # Step 1: Checkout the code
     - name: Checkout code
       uses: actions/checkout@v2
-      with:
-        token: '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'
+      # with:
+      #   token: ''
     
 
     # Step 2: Set up Node.js (for running semantic-release)
@@ -43,4 +43,4 @@ jobs:
     - name: Run semantic-release
       run: npx semantic-release
       env:
-        GITHUB_TOKEN: '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' # Ensure GitHub token is passed to semantic-release
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # Ensure GitHub token is passed to semantic-release
