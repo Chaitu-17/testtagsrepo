@@ -10,8 +10,8 @@ permissions:
   contents: write  # Allows pushing changes to the repository
   pull-requests: write  # Allows creating releases
 
-env:
-  GH_TOKEN: ${{ secrets.GH_TOKEN }}  # GitHub token for creating releases
+# env:
+#   GH_TOKEN: ${{ secrets.GH_TOKEN }}  # GitHub token for creating releases
 
 jobs:
   release:
@@ -21,6 +21,9 @@ jobs:
     # Step 1: Checkout the code
     - name: Checkout code
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GH_TOKEN }}
+    
 
     # Step 2: Set up Node.js (for running semantic-release)
     - name: Setup Node.js
