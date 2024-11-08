@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/Chaitu-17/testtagsrepo/compare/v1.14.1...v1.15.0) (2024-11-08)
+
+
+### Features
+
+* deleted lines ([9d6eb4d](https://github.com/Chaitu-17/testtagsrepo/commit/9d6eb4d7a24bbf6be3dca6be2e0b87d7afbf2559))
+
 ## [1.14.1](https://github.com/Chaitu-17/testtagsrepo/compare/v1.14.0...v1.14.1) (2024-11-08)
 
 
