@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/Chaitu-17/testtagsrepo/compare/v1.13.0...v1.14.0) (2024-11-08)
+
+
+### Features
+
+*  updated the chaitutest ([4f20d6d](https://github.com/Chaitu-17/testtagsrepo/commit/4f20d6da753b417aa9cfdd4402cb7390d877c8b0))
+
 # [1.13.0](https://github.com/Chaitu-17/testtagsrepo/compare/v1.12.0...v1.13.0) (2024-11-08)
 
 
