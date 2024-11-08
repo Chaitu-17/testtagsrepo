@@ -1,3 +1,10 @@
+## [1.14.1](https://github.com/Chaitu-17/testtagsrepo/compare/v1.14.0...v1.14.1) (2024-11-08)
+
+
+### Bug Fixes
+
+* updated changelog ([dd1ef06](https://github.com/Chaitu-17/testtagsrepo/commit/dd1ef06e52b28183b0804e6edd35007c7e7cf81f))
+
 # [1.14.0](https://github.com/Chaitu-17/testtagsrepo/compare/v1.13.0...v1.14.0) (2024-11-08)
 
 
