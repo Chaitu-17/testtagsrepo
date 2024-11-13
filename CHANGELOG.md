@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/Chaitu-17/testtagsrepo/compare/v1.15.0...v1.16.0) (2024-11-13)
+
+
+### Features
+
+* Update .releasercfile justnow ([aefafb3](https://github.com/Chaitu-17/testtagsrepo/commit/aefafb3cdb59ddd9f188650554ff3b56af5dcce3))
+
 # [1.15.0](https://github.com/Chaitu-17/testtagsrepo/compare/v1.14.1...v1.15.0) (2024-11-08)
 
 
