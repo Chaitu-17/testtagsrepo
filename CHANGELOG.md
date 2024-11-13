@@ -1,3 +1,10 @@
+## [1.18.1](https://github.com/Chaitu-17/testtagsrepo/compare/v1.18.0...v1.18.1) (2024-11-13)
+
+
+### Bug Fixes
+
+* updated chaitutest file ([97b9518](https://github.com/Chaitu-17/testtagsrepo/commit/97b9518ba1a49703c0700bfa802b7bc6edb3018b))
+
 # [1.18.0](https://github.com/Chaitu-17/testtagsrepo/compare/v1.17.0...v1.18.0) (2024-11-13)
 
 
