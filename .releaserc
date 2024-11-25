@@ -1,19 +1,20 @@
-module.exports = {
-  branches: [
+{
+  "branches": [
     {
-      name: "main",
-      tagFormat: "main-v${nextRelease.version}"
+      "name": "main",
+      "tagFormat": "main-v${nextRelease.version}"
     },
     {
-      name: "test",
-      tagFormat: "develop-v${nextRelease.version}"
+      "name": "test",
+      "tagFormat": "test-v${nextRelease.version}"
     }
   ],
-  plugins: [
+  "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
     "@semantic-release/npm",
-    "@semantic-release/git"
+    "@semantic-release/git",
+    "@semantic-release/debug"
   ]
 }
