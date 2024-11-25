@@ -4,11 +4,6 @@
       "name": "main",
       "channel": "stable",
       "tagFormat": "v${version}"
-    },
-    {
-      "name": "test",
-      "channel": "beta",
-      "tagFormat": "beta-${version}"
     }
   ],
   "plugins": [
