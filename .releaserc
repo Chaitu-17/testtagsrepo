@@ -1,7 +1,7 @@
 {
      "branches": [
-       { "name": "main", "channel": "stable", "tagFormat": "v${env.VERSION}" },
-       { "name": "test", "channel": "beta", "tagFormat": "beta-${env.VERSION}" }
+       { "name": "main",  "tagFormat": "v${env.VERSION}" },
+       { "name": "test", "tagFormat": "beta-v${env.VERSION}" }
      ],
      "plugins": [
        "@semantic-release/commit-analyzer",
