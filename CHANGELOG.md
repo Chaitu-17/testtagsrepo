@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Chaitu-17/testtagsrepo/compare/main-v1.0.0...main-v1.1.0) (2024-11-25)
+
+
+### Features
+
+* Update chaitutest ([f482a03](https://github.com/Chaitu-17/testtagsrepo/commit/f482a03779c6ef96e81aa56d29d2839255fd56a4))
+
 # 1.0.0 (2024-11-25)
 
 
