@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Chaitu-17/testtagsrepo/compare/main-v1.2.0...main-v1.3.0) (2024-11-25)
+
+
+### Features
+
+* Update chaitutesting branch ([a488fb7](https://github.com/Chaitu-17/testtagsrepo/commit/a488fb789385ac1acd418e27ee408012a5e99763))
+
 # [1.2.0](https://github.com/Chaitu-17/testtagsrepo/compare/main-v1.1.0...main-v1.2.0) (2024-11-25)
 
 
