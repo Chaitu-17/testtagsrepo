@@ -1,13 +1,19 @@
-{
-     "branches": [
-       { "name": "main",  "tagFormat": "v${version}" },
-       { "name": "test", "tagFormat": "beta-v${version}" }
-     ],
-     "plugins": [
-       "@semantic-release/commit-analyzer",
-       "@semantic-release/release-notes-generator",
-       "@semantic-release/changelog",
-       "@semantic-release/npm",
-       "@semantic-release/git"
-     ]
-   }
+module.exports = {
+  branches: [
+    {
+      name: "main",
+      tagFormat: "main-v${nextRelease.version}"
+    },
+    {
+      name: "test",
+      tagFormat: "develop-v${nextRelease.version}"
+    }
+  ],
+  plugins: [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/changelog",
+    "@semantic-release/npm",
+    "@semantic-release/git"
+  ]
+}
