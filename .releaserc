@@ -2,7 +2,7 @@
   "branches": [
     {
       "name": "main",
-      "tagFormat": "main-v${nextRelease.version}"
+      "tagFormat": "main-v${version}"
     }
   ],
   "plugins": [
