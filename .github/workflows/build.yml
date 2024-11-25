@@ -45,3 +45,6 @@ jobs:
       run: npx semantic-release
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Ensure GitHub token is passed to semantic-release
+
+    - name: semantic-debug
+      run: npx semantic-release --debug
