@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/Chaitu-17/testtagsrepo/compare/main-v1.1.0...main-v1.2.0) (2024-11-25)
+
+
+### Features
+
+* Update build.yml ([8917910](https://github.com/Chaitu-17/testtagsrepo/commit/8917910a1bc35bf3e38ccdf62fc340588225544a))
+* Update build.yml ([f2c5fe5](https://github.com/Chaitu-17/testtagsrepo/commit/f2c5fe53a1ff37528f42e357388fcdd883abe7d5))
+
 # [1.1.0](https://github.com/Chaitu-17/testtagsrepo/compare/main-v1.0.0...main-v1.1.0) (2024-11-25)
 
 
