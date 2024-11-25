@@ -1,10 +1,13 @@
 {
-  "branches": ["main","test"],
-  "tagFormat": ["main-v${version}" , "test-v${version}"],
-  "plugins": [
-    "@semantic-release/commit-analyzer",
-    "@semantic-release/release-notes-generator",
-    "@semantic-release/changelog",
-    "@semantic-release/git"
-  ]
-}
+     "branches": [
+       { "name": "main", "channel": "stable", "tagFormat": "v${version}" },
+       { "name": "test", "channel": "beta", "tagFormat": "beta-${version}" }
+     ],
+     "plugins": [
+       "@semantic-release/commit-analyzer",
+       "@semantic-release/release-notes-generator",
+       "@semantic-release/changelog",
+       "@semantic-release/npm",
+       "@semantic-release/git"
+     ]
+   }
