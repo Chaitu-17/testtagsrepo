@@ -1,10 +1,6 @@
 {
-  "branches": [
-    {
-      "name": "main",
-      "tagFormat": "main-v${version}"
-    }
-  ],
+  "branches": ["main", "test"],
+  "tagFormat": "${process.env.GIT_BRANCH}-v${version}",
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
