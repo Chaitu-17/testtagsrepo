@@ -1,3 +1,12 @@
+# [1.19.0](https://github.com/Chaitu-17/testtagsrepo/compare/v1.18.1...v1.19.0) (2024-11-25)
+
+
+### Features
+
+* Update .releaserc ([568532d](https://github.com/Chaitu-17/testtagsrepo/commit/568532d409acff23fd8f6a8e6abd262416e6b402))
+* Update .releaserc ([bb9ec10](https://github.com/Chaitu-17/testtagsrepo/commit/bb9ec1033a83f8fa4366ce48c38132ea2d01266b))
+* Update .releaserc ([d64ca7c](https://github.com/Chaitu-17/testtagsrepo/commit/d64ca7cbeec4bb8a143c4241c7d82d15772d8d18))
+
 ## [1.18.1](https://github.com/Chaitu-17/testtagsrepo/compare/v1.18.0...v1.18.1) (2024-11-13)
 
 
