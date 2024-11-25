@@ -1,3 +1,35 @@
+# [1.1.0](https://github.com/Chaitu-17/testtagsrepo/compare/main-v1.0.0...main-v1.1.0) (2024-11-25)
+
+
+### Bug Fixes
+
+* Update .releaserc ([66c1a98](https://github.com/Chaitu-17/testtagsrepo/commit/66c1a98b9d623b69772109a4a379208653174bd7))
+
+
+### Features
+
+* Update .releaserc ([6eb62d3](https://github.com/Chaitu-17/testtagsrepo/commit/6eb62d3437e6edd735553ae4cbb42567df399b87))
+* Update .releaserc ([55fa9ef](https://github.com/Chaitu-17/testtagsrepo/commit/55fa9efbe04342a10dd6b83836550bd69212cbab))
+* Update .releaserc ([be195ba](https://github.com/Chaitu-17/testtagsrepo/commit/be195bae7efe5a3dff68ad64968cb053161c04ed))
+* Update .releaserc ([85f0d75](https://github.com/Chaitu-17/testtagsrepo/commit/85f0d75d1bb864a26de3b5cc4949c2123335f918))
+* Update .releaserc ([91519d5](https://github.com/Chaitu-17/testtagsrepo/commit/91519d5976a663e61899d01a332c2bacfe7298ea))
+* Update .releaserc ([7f082c5](https://github.com/Chaitu-17/testtagsrepo/commit/7f082c5ec486cd38d8133a0eef9edb2990c35e3b))
+* Update .releaserc ([8446f53](https://github.com/Chaitu-17/testtagsrepo/commit/8446f5387d02845e27d0af536e1ae662794ab1cd))
+* Update .releaserc ([855375a](https://github.com/Chaitu-17/testtagsrepo/commit/855375a174d2c2d83e5b9a3e1b64c8b5b54be80e))
+* Update .releaserc ([57ab7a5](https://github.com/Chaitu-17/testtagsrepo/commit/57ab7a5a62a4552cf19a64cbf52e00b9f89f8302))
+* Update .releaserc ([63de79f](https://github.com/Chaitu-17/testtagsrepo/commit/63de79f307518a0560e53fc5d2c3782faf805c10))
+* Update .releaserc ([7134c9c](https://github.com/Chaitu-17/testtagsrepo/commit/7134c9c0938ea99c6d968e1add55a52633b7d781))
+* Update .releaserc ([7b82cf1](https://github.com/Chaitu-17/testtagsrepo/commit/7b82cf1def5d096ce3f7fb605ed1195e3426e8ae))
+* Update .releaserc ([772502b](https://github.com/Chaitu-17/testtagsrepo/commit/772502b65396d1efa0f94d444e2660b21995c439))
+* Update build.yml ([c8037eb](https://github.com/Chaitu-17/testtagsrepo/commit/c8037eb465a5dad39b478ba0402c48299352f0d5))
+* Update build.yml ([b45e0bf](https://github.com/Chaitu-17/testtagsrepo/commit/b45e0bf2cc17e7c4083ad5a52ce94d0bf2250f58))
+* Update build.yml ([c971760](https://github.com/Chaitu-17/testtagsrepo/commit/c9717601ae1ab6cd1acd0f9ae82859d446af99e8))
+* Update build.yml ([2e90a81](https://github.com/Chaitu-17/testtagsrepo/commit/2e90a816f2af80ac5caac5aab9f850e8635ff859))
+* Update build.yml ([84beaf6](https://github.com/Chaitu-17/testtagsrepo/commit/84beaf6302d3a400bee1492bacddcdb651f87028))
+* Update build.yml ([ffaeb3d](https://github.com/Chaitu-17/testtagsrepo/commit/ffaeb3d0ad3b8e750abb6f6c3db9b88cfd6bc05e))
+* Update build.yml ([71017ed](https://github.com/Chaitu-17/testtagsrepo/commit/71017ed7cdd611e3ef824b4d29645ff85d3237cf))
+* updated the yml file with env ([a2ebb0d](https://github.com/Chaitu-17/testtagsrepo/commit/a2ebb0dde87c386906a02b5579ad09987dea730d))
+
 # 1.0.0 (2024-11-25)
 
 
