@@ -3,10 +3,6 @@
     {
       "name": "main",
       "tagFormat": "main-v${nextRelease.version}"
-    },
-    {
-      "name": "test",
-      "tagFormat": "test-v${nextRelease.version}"
     }
   ],
   "plugins": [
